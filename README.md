@@ -24,7 +24,6 @@
 </tr>
 </table>
 
-<!-- while alive 代码块 居中加粗 -->
 <p align="center">
   <strong>
     <pre><code>
