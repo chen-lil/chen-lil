@@ -1,19 +1,41 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi👋+I+am+Lil+😊+%F0%9F%91%8B;👩🏻‍💻+Major+in+Communication+Engineering.+✨%F0%9F%91%8B;Open+Source+Enthusiast✨.)
+<!-- 动态打字效果 -->
 
-#  🙋 Hello
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi👋+I+am+Lil+😊+%F0%9F%91%8B;👩🏻‍💻+Major+in++Communication+Engineering+✨%F0%9F%91%8B;Open+Source+Enthusiast✨.)
 
-  
-<tr><td>
+
+<!-- 主标题 -->
+<h1>🙋 Hello</h1>
+
+<!-- 关于我部分 -->
+<table>
+<tr>
+<td>
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Richard_Stallman_Bologna_2024_abc1.jpg" />
+<img align="right" width="120" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Richard_Stallman_Bologna_2024_abc1.jpg" style="margin-left: 20px;" />
 
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;嗨，你好，我是 Lil。热爱编程、旅行、冒险。</p>
+<p>&emsp;&emsp;热爱 IT 行业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;如果你想为这世界做些什么，仅有理想是不够的，你需要找条通往目标的道路并走完。</p>
+<p>&emsp;&emsp;<strong>If you want to accomplish something in the world, idealism is not enough – you need to choose a method that works to achieve the goal.</strong></p>
 
-</td></tr> 
+</td>
+</tr>
+</table>
+
+<!-- while alive 代码块 居中加粗 -->
+<p align="center">
+  <strong>
+    <pre><code>
+while(alive){
+    eat();
+    thinking();
+    code();
+}
+    </code></pre>
+  </strong>
+</p>
+
 
 
